@@ -42,3 +42,16 @@ lalu kemudian membuat hero panel dengan menambahkan kode html dan css sebagai be
 ![n](https://user-images.githubusercontent.com/56399268/115945753-fda4c780-a447-11eb-9f18-738ca7541d83.PNG)
 
 ![o](https://user-images.githubusercontent.com/56399268/115945741-f7aee680-a447-11eb-8312-b33aa05bb769.PNG)
+
+lalu mengatur main content dan sidebar dengan menambahkan css float
+
+
+membuat element lain dalam sidebar dan tambahkan cssnya juga
+
+![p](https://user-images.githubusercontent.com/56399268/115945745-fb426d80-a447-11eb-9c9e-368fb3698dd8.PNG)
+
+![q](https://user-images.githubusercontent.com/56399268/115945747-fbdb0400-a447-11eb-86bc-0693b982d21b.PNG)
+
+![r](https://user-images.githubusercontent.com/56399268/115945750-fd0c3100-a447-11eb-8033-fd5cd75787b2.PNG)
+
+![s](https://user-images.githubusercontent.com/56399268/115945752-fd0c3100-a447-11eb-8e1b-d37be73aaa1d.PNG)
